@@ -1,4 +1,3 @@
-# hugging-face-demo
 ---
 title: Learning Github workflow
 emoji: :)
